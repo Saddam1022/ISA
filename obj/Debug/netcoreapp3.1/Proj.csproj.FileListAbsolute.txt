@@ -1,0 +1,261 @@
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\Proj.exe
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\Proj.deps.json
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\Proj.runtimeconfig.json
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\Proj.runtimeconfig.dev.json
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\Proj.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\Proj.pdb
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\Proj.Views.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\Proj.Views.pdb
+C:\Users\ABRAR\OneDrive\Desktop\Proj\obj\Debug\netcoreapp3.1\Proj.csprojAssemblyReference.cache
+C:\Users\ABRAR\OneDrive\Desktop\Proj\obj\Debug\netcoreapp3.1\staticwebassets\Proj.StaticWebAssets.Manifest.cache
+C:\Users\ABRAR\OneDrive\Desktop\Proj\obj\Debug\netcoreapp3.1\staticwebassets\Proj.StaticWebAssets.xml
+C:\Users\ABRAR\OneDrive\Desktop\Proj\obj\Debug\netcoreapp3.1\Proj.RazorAssemblyInfo.cache
+C:\Users\ABRAR\OneDrive\Desktop\Proj\obj\Debug\netcoreapp3.1\Proj.RazorAssemblyInfo.cs
+C:\Users\ABRAR\OneDrive\Desktop\Proj\obj\Debug\netcoreapp3.1\Proj.AssemblyInfoInputs.cache
+C:\Users\ABRAR\OneDrive\Desktop\Proj\obj\Debug\netcoreapp3.1\Proj.AssemblyInfo.cs
+C:\Users\ABRAR\OneDrive\Desktop\Proj\obj\Debug\netcoreapp3.1\Proj.TagHelpers.input.cache
+C:\Users\ABRAR\OneDrive\Desktop\Proj\obj\Debug\netcoreapp3.1\Proj.TagHelpers.output.cache
+C:\Users\ABRAR\OneDrive\Desktop\Proj\obj\Debug\netcoreapp3.1\Proj.RazorCoreGenerate.cache
+C:\Users\ABRAR\OneDrive\Desktop\Proj\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ABRAR\OneDrive\Desktop\Proj\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ABRAR\OneDrive\Desktop\Proj\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ABRAR\OneDrive\Desktop\Proj\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ABRAR\OneDrive\Desktop\Proj\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ABRAR\OneDrive\Desktop\Proj\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ABRAR\OneDrive\Desktop\Proj\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ABRAR\OneDrive\Desktop\Proj\obj\Debug\netcoreapp3.1\Proj.RazorTargetAssemblyInfo.cache
+C:\Users\ABRAR\OneDrive\Desktop\Proj\obj\Debug\netcoreapp3.1\Proj.RazorTargetAssemblyInfo.cs
+C:\Users\ABRAR\OneDrive\Desktop\Proj\obj\Debug\netcoreapp3.1\Proj.Views.pdb
+C:\Users\ABRAR\OneDrive\Desktop\Proj\obj\Debug\netcoreapp3.1\Proj.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\obj\Debug\netcoreapp3.1\Proj.pdb
+C:\Users\ABRAR\OneDrive\Desktop\Proj\obj\Debug\netcoreapp3.1\Proj.csproj.CopyComplete
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ABRAR\OneDrive\Desktop\Proj\obj\Debug\netcoreapp3.1\Proj.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ABRAR\OneDrive\Desktop\Proj\obj\Debug\netcoreapp3.1\Razor\Views\Home\ContactUs.cshtml.g.cs
+C:\Users\ABRAR\OneDrive\Desktop\Proj\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\Proj.exe
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\Proj.deps.json
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\Proj.runtimeconfig.json
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\Proj.runtimeconfig.dev.json
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\Proj.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\Proj.pdb
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\Proj.Views.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\Proj.Views.pdb
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\Xceed.Wpf.AvalonDock.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\Xceed.Wpf.Toolkit.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Proj.AssemblyInfoInputs.cache
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Proj.AssemblyInfo.cs
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Proj.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Proj.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Proj.RazorAssemblyInfo.cache
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Proj.RazorAssemblyInfo.cs
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Proj.TagHelpers.input.cache
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Proj.TagHelpers.output.cache
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Proj.RazorCoreGenerate.cache
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Razor\Views\Admin\adminemployee.cshtml.g.cs
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Adminportal.cshtml.g.cs
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Razor\Views\Admin\adminstudent.cshtml.g.cs
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdmintoEmployee.cshtml.g.cs
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdmintoMess.cshtml.g.cs
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdmintoStudent.cshtml.g.cs
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Razor\Views\Admin\RegisterUnregister.cshtml.g.cs
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Employeeportal.cshtml.g.cs
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Employee_details.cshtml.g.cs
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Employee_mess.cshtml.g.cs
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Employee_Salary.cshtml.g.cs
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Razor\Views\Home\ContactUs.cshtml.g.cs
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Razor\Views\Student\Studentportal.cshtml.g.cs
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Razor\Views\Student\Student_fee.cshtml.g.cs
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Razor\Views\Student\Student_info_form.cshtml.g.cs
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Razor\Views\Student\Student_mess.cshtml.g.cs
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Proj.RazorTargetAssemblyInfo.cache
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Proj.RazorTargetAssemblyInfo.cs
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Proj.Views.pdb
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Proj.csproj.CopyComplete
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\staticwebassets\Proj.StaticWebAssets.Manifest.cache
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\staticwebassets\Proj.StaticWebAssets.xml
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Proj.dll
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Proj.pdb
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Proj.genruntimeconfig.cache
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\Proj.csprojAssemblyReference.cache
+C:\Users\Muhammad Saddam\Desktop\Proj\obj\Debug\netcoreapp3.1\scopedcss\bundle\Proj.styles.css

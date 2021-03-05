@@ -1,0 +1,151 @@
+﻿
+@{
+    ViewData["Title"] = "Employee_details";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="~/data/css/stylesheet.css">
+    <script src="https://kit.fontawesome.com/67ba5841f4.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+    <title>HMS</title>
+</head>
+
+<body>
+    <div class="bgm">
+        <header>
+            <nav class="navbar navbar-expand-sm navbar-dark">
+                <a href="#" class="navbar-brand">StarHostel</a>
+                <button class="navbar-toggler" data-toggle="collapse" data-target="#Menu">
+                    <span class="navbar-toggler icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="Menu">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a class="nav-link " href="/Home/Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/Home/ContactUs">ContactUs</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/Home/Login">Log out</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </header>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-4 col-sm-4 col-xs-12"></div>
+                <div class="col-md-4 col-sm-4 col-xs-12">
+                    <br>
+                    <div class="form-row">
+                        <div class="form-group col-md-6">
+                            <div class="col-xs-4">
+                                <label style="color:white">
+                                    Name
+                                </label>
+                                <input class="form-control" readonly name="name" value="@ViewData["name"]" placeholder="Name" id="ex1" type="text">
+                            </div>
+                        </div>
+                        <div class="form-group col-md-6">
+                            <div class="col-xs-4">
+                                <label style="color:white">
+                                    Father Name
+                                </label>
+                                <input class="form-control" readonly name="fname" value="@ViewData["fname"]" placeholder="Father name" type="text">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-md-6">
+                            <div class="col-xs-4">
+                                <label style="color:white">
+                                    CNIC
+                                </label>
+                                <input class="form-control" readonly name="cnic" value="@ViewData["cnic"]" placeholder="CNIC" type="text">
+                            </div>
+                        </div>
+                        <div class="form-group col-md-6">
+                            <div class="col-xs-4">
+                                <label style="color:white">
+                                    Email
+                                </label>
+                                <input class="form-control" readonly name="email" value="@ViewData["Message"]" placeholder="Email" type="text">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-md-6">
+                            <div class="col-xs-4">
+                                <label style="color:white">
+                                    Present Address
+                                </label>
+                                <input class="form-control" readonly name="paddress" value="@ViewData["paddress"]" placeholder="Present Address" type="text">
+                            </div>
+                        </div>
+
+                        <div class="form-group col-md-6">
+                            <div class="col-xs-4">
+                                <label style="color:white">
+                                    Permanent Address
+                                </label>
+                                <input class="form-control" readonly name="praddress" value="@ViewData["praddress"]" placeholder="Permanent Address" type="text">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-md-6">
+                            <div class="col-xs-4">
+                                <label style="color:white">
+                                    City
+                                </label>
+                                <input class="form-control" readonly name="city" value="@ViewData["city"]" placeholder="City" type="text">
+                            </div>
+                        </div>
+                        <div class="form-group col-md-6">
+                            <div class="col-xs-4">
+                                <label style="color:white">
+                                    Province
+                                </label>
+                                <input class="form-control" readonly name="province" value="@ViewData["province"]" type="text">
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="form-row">
+                        <div class="form-group col-md-6">
+                            <div class="col-xs-4">
+                                <label style="color:white">
+                                    ZIP Code
+                                </label>
+                                <input class="form-control" readonly name="zip" value="@ViewData["zip"]" type="text">
+
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <button class="btn btn-primary btn-lg float-left" type="submit"> <a class="nav-link " href="/Employee/Employeeportal">Back</button></a>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-4 col-xs-12"></div>
+            </div>
+        </div>
+
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container1 text-center py-3">
+            &copy; 2020 - webApp - <a asp-area="">Privacy</a>
+        </div>
+    </footer>
+  
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+</body>
+
+</html>

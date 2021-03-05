@@ -1,0 +1,10 @@
+.body {
+    background-color: cadetblue;
+}
+
+.btn {
+    background-color: darkgreen;
+    border-radius: 1px;
+    border-style: solid;
+    border-color: black;
+}
